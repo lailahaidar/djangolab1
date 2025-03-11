@@ -19,3 +19,7 @@
 
 ## TA Laila must see your work before you leave the lab !!! 
 
+![get to work](https://orderofpreachersindependent.org/wp-content/uploads/2017/09/hey-you-get-to-work.jpg)
+
+
+
