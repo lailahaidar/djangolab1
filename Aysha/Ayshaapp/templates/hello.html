@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    
+    <title>Hello, {{ name }}</title>
+</head>
+<body>
+    <h1>Welcome, {{ name }}!</h1>
+    <a href="http://google.com">Google for more info</a>
+    <h1> Here list of students</h1>
+    <ul>
+        {% for x in Hello %}
+            <li>{{ x }}</li>
+        {% endfor %}
+    </ul>
+
+   
+    {% load static %}
+    <img src="{% static 'myimage.jpg' %}" alt="Image" style="width: 500px; height: 500px;">
+</body>
+</html>
