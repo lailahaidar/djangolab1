@@ -1,23 +1,14 @@
 # djangolab1
- 
-## Lab Requirements
 
-- Clone this repository
-- Create a fork
-- Commit changes
-- Push changes
-- Create a pull request
+## Tasks
 
-## Task
-
-- Start a project your name (laila)
+- Start a project with your name (laila)
 - Create and app 'name'app (lailaapp)
-- Create a view
-- In the view include a variable name and list
-- Create a webpage to view the name and list and add a hyperlink
+- Create a view named 'myname_view' this view should display your name and Student ID
+- Create an html page for the view above and appropriate URL
+- Create another view 'myclasses_view'to show a list of class you are currently taking 
+- Create an html page for the view above and appropriate URL
 - Bonus: show an image on the page
-
-## TA Laila must see your work before you leave the lab !!! 
 
 ![get to work](https://orderofpreachersindependent.org/wp-content/uploads/2017/09/hey-you-get-to-work.jpg)
 
